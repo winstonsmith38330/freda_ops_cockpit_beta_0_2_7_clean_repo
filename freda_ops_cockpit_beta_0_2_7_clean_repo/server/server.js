@@ -1,4 +1,4 @@
-import 'dotenv/config';
+// dotenv import removed for Render hotfix; Render injects environment variables directly.
 import express from 'express';
 import cors from 'cors';
 import multer from 'multer';
