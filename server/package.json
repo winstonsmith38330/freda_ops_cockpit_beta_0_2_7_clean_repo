@@ -1,6 +1,6 @@
 {
   "name": "freda-ops-cockpit-server",
-  "version": "0.2.7",
+  "version": "0.2.7-render-hotfix",
   "type": "module",
   "private": true,
   "scripts": {
@@ -16,5 +16,8 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "multer": "^1.4.5-lts.1"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
